@@ -19,13 +19,3 @@ elif (float(score) < 0.6): #5th: Condition, this does not execute because the 2n
     print("F")
 else:
     print("Value entered is not within the correct range.")
-
-
-
-
-claseScores = [86, 74, 56]
-
-
-print(claseScores[1])
-
-# output =   74
