@@ -17,6 +17,8 @@ elif (float(score) >= 0.6): #4th: Condition, this does not execute because the 2
     print("D") 
 elif (float(score) < 0.6): #5th: Condition, this does not execute because the 2nd condition was true
     print("F")
+else:
+    print("Value entered is not within the correct range.")
 
 
 
